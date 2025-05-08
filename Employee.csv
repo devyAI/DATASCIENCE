@@ -1,0 +1,200 @@
+Education,JoiningYear,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot,Income
+Bachelors,2017,Bangalore,3,34,Male,No,0,0,54121.38428
+Bachelors,2013,Pune,1,28,Female,No,3,1,74003.69005
+Bachelors,2014,New Delhi,3,38,Female,No,2,0,58847.80245
+Masters,2016,Bangalore,3,27,Male,No,5,1,57600.05813
+Masters,2017,Pune,3,24,Male,Yes,2,1,61272.66046
+Bachelors,2016,Bangalore,3,22,Male,No,0,0,55140.23337
+Bachelors,2015,New Delhi,3,38,Male,No,0,0,41011.03501
+Bachelors,2016,Bangalore,3,34,Female,No,2,1,63678.59771
+Bachelors,2016,Pune,3,23,Male,No,1,0,35058.52654
+Masters,2017,New Delhi,2,37,Male,No,2,0,115151.3873
+Masters,2012,Bangalore,3,27,Male,No,5,1,101534.6215
+Bachelors,2016,Pune,3,34,Male,No,3,0,83958.02219
+Bachelors,2018,Pune,3,32,Male,Yes,5,1,81525.7497
+Bachelors,2016,Bangalore,3,39,Male,No,2,0,57961.38516
+Bachelors,2012,Bangalore,3,37,Male,No,4,0,52725.48542
+Bachelors,2017,Bangalore,1,29,Male,No,3,0,70476.99514
+Bachelors,2014,Bangalore,3,34,Female,No,2,0,54788.18965
+Bachelors,2014,Pune,3,34,Male,No,4,0,91029.83039
+Bachelors,2015,Pune,2,30,Female,No,0,1,58954.32335
+Bachelors,2016,New Delhi,2,22,Female,No,0,1,47066.21638
+Bachelors,2012,Bangalore,3,37,Male,No,0,0,91404.50338
+Masters,2017,New Delhi,2,28,Male,No,4,0,46654.39421
+Bachelors,2017,New Delhi,2,36,Male,No,3,0,83197.2763
+Bachelors,2015,Bangalore,3,27,Male,Yes,5,0,109054.5187
+Bachelors,2017,Bangalore,3,29,Male,No,4,0,113211.6264
+Bachelors,2013,Bangalore,3,22,Female,Yes,0,0,40225.84033
+Bachelors,2016,Bangalore,3,37,Male,No,2,0,31081.81682
+Bachelors,2015,Bangalore,3,23,Male,No,1,0,42123.99985
+Bachelors,2013,Pune,2,31,Female,No,2,1,118744.8715
+Masters,2017,New Delhi,2,30,Female,No,2,0,66786.33529
+PHD,2013,New Delhi,3,25,Male,No,3,0,93335.4728
+Bachelors,2014,Bangalore,3,23,Male,No,1,0,87124.11862
+Bachelors,2018,Bangalore,3,26,Male,No,4,1,35379.77093
+Bachelors,2016,Bangalore,3,40,Male,No,5,0,33843.05488
+Bachelors,2017,Pune,2,37,Female,No,0,1,117389.753
+Bachelors,2014,Bangalore,1,30,Female,No,3,0,81691.77834
+Bachelors,2012,New Delhi,3,29,Male,No,3,0,55236.03913
+Bachelors,2018,New Delhi,2,34,Female,No,0,1,47205.31715
+Bachelors,2017,Pune,2,29,Female,No,2,1,46243.7617
+Bachelors,2014,Pune,3,30,Male,Yes,4,0,79632.08433
+Bachelors,2015,Bangalore,3,36,Male,No,1,0,74830.48866
+Masters,2017,New Delhi,2,23,Male,No,1,0,76429.11862
+Bachelors,2013,Bangalore,3,30,Male,No,3,1,32366.738
+Bachelors,2014,Bangalore,3,36,Male,No,0,0,65102.60192
+Bachelors,2015,Pune,3,39,Male,No,4,0,89230.46178
+Bachelors,2014,Bangalore,3,23,Female,No,1,0,72850.89801
+PHD,2012,New Delhi,3,27,Male,No,5,0,61902.87076
+Masters,2013,New Delhi,3,35,Male,No,2,0,69608.21859
+Masters,2017,New Delhi,2,34,Male,No,0,0,115804.0061
+Bachelors,2013,Bangalore,3,30,Female,No,1,0,117629.8864
+PHD,2017,New Delhi,3,34,Male,No,2,0,93042.81064
+Bachelors,2015,Pune,2,26,Female,No,4,1,85042.93314
+Bachelors,2016,Bangalore,3,34,Female,No,0,0,51092.50182
+Bachelors,2014,Bangalore,3,31,Female,Yes,5,0,115816.9949
+Bachelors,2017,New Delhi,3,31,Female,Yes,5,0,73227.20122
+PHD,2013,New Delhi,3,28,Male,No,2,0,34810.14276
+Bachelors,2016,Bangalore,3,38,Male,No,2,0,67376.27918
+Masters,2014,Pune,3,39,Female,No,2,0,51799.26856
+Bachelors,2013,Pune,3,32,Male,No,4,0,35784.64663
+Masters,2017,Pune,2,36,Male,No,2,1,94560.45888
+Masters,2013,New Delhi,3,29,Male,No,3,0,51249.97635
+Bachelors,2015,Bangalore,3,30,Male,No,5,0,70018.5278
+PHD,2013,Bangalore,2,25,Male,No,3,1,111221.7864
+Bachelors,2014,Pune,1,22,Female,No,0,1,84718.57133
+Bachelors,2016,Bangalore,3,34,Male,No,4,0,39609.56081
+Bachelors,2018,Bangalore,3,40,Male,No,1,1,66295.45047
+PHD,2013,Bangalore,3,26,Male,No,4,0,90202.75756
+Bachelors,2014,New Delhi,3,28,Male,No,0,0,56198.95817
+Bachelors,2015,Bangalore,3,24,Female,No,2,0,46207.83441
+Masters,2017,Bangalore,3,40,Female,No,2,1,58310.58787
+Bachelors,2018,Bangalore,3,23,Female,No,1,1,59317.24821
+Masters,2017,Bangalore,3,31,Male,No,4,0,93439.8961
+Bachelors,2014,Pune,3,25,Female,No,3,0,38623.26999
+Bachelors,2014,Bangalore,1,27,Male,No,5,0,41014.52616
+Masters,2017,New Delhi,2,25,Female,No,3,1,56813.232
+Bachelors,2015,Bangalore,3,40,Male,No,0,1,116305.1166
+Bachelors,2014,Bangalore,1,23,Female,No,1,0,70122.43906
+Bachelors,2017,Bangalore,3,23,Female,No,1,0,59406.088
+Bachelors,2012,Bangalore,3,39,Male,No,1,0,67262.7154
+PHD,2015,New Delhi,1,37,Male,No,1,0,36476.59173
+Bachelors,2017,Pune,3,38,Male,No,2,0,67702.23169
+Bachelors,2013,Bangalore,3,31,Female,No,0,1,36968.99038
+Bachelors,2016,Bangalore,3,38,Male,No,5,0,93277.94541
+Bachelors,2017,Bangalore,3,25,Female,No,3,0,96714.13996
+Bachelors,2015,Bangalore,3,27,Female,Yes,5,1,74735.48352
+Bachelors,2016,Pune,2,36,Male,No,0,1,49230.87731
+Bachelors,2017,Pune,2,27,Female,No,5,1,60640.55066
+Masters,2015,Pune,2,32,Female,No,4,0,97369.811
+Bachelors,2014,Bangalore,3,28,Male,No,4,0,66669.28641
+Masters,2012,New Delhi,3,32,Male,No,2,0,41748.2004
+Bachelors,2018,Bangalore,3,30,Male,No,0,1,62837.05095
+Bachelors,2015,New Delhi,3,22,Male,No,0,0,102185.6792
+Bachelors,2017,New Delhi,2,34,Female,No,5,0,91084.35957
+Masters,2013,New Delhi,3,36,Male,No,2,0,66667.11007
+Bachelors,2014,Bangalore,3,39,Male,No,3,1,88895.54196
+PHD,2018,Bangalore,3,26,Male,No,4,1,35480.98751
+Bachelors,2016,Bangalore,3,31,Female,No,0,0,45542.34084
+Bachelors,2014,Bangalore,3,27,Male,No,5,1,83672.77519
+Bachelors,2014,Bangalore,3,29,Female,No,0,0,67855.72216
+Bachelors,2015,Bangalore,3,24,Female,No,2,1,92545.93905
+Masters,2012,Pune,3,25,Male,No,3,1,74455.48888
+Bachelors,2013,Pune,3,25,Male,No,3,0,106589.7041
+Masters,2017,New Delhi,3,26,Female,No,4,1,40353.98002
+Bachelors,2015,Pune,2,28,Female,Yes,1,1,112619.2814
+Bachelors,2017,New Delhi,3,28,Male,No,2,0,58709.75042
+Masters,2015,Pune,1,28,Female,No,3,1,115935.5025
+Masters,2015,New Delhi,3,25,Male,No,3,0,54516.5805
+Bachelors,2017,Bangalore,3,28,Male,No,1,0,105041.2092
+Masters,2013,Pune,3,25,Male,No,3,0,64856.8212
+Bachelors,2015,Bangalore,2,25,Female,No,3,1,87043.59756
+Bachelors,2015,Bangalore,3,27,Female,No,5,0,32770.88368
+Bachelors,2017,Pune,2,27,Female,No,5,1,95713.34297
+Bachelors,2013,Bangalore,3,27,Male,No,5,1,106635.5259
+Bachelors,2012,Bangalore,3,25,Male,No,3,0,44932.51943
+Masters,2017,New Delhi,2,28,Male,No,2,0,31203.24032
+Bachelors,2014,Pune,1,26,Female,No,4,1,99617.90236
+Bachelors,2015,Bangalore,3,28,Male,No,2,0,70604.82773
+Masters,2013,New Delhi,3,26,Male,No,4,0,105508.1707
+Bachelors,2017,Bangalore,3,26,Female,No,4,0,78185.72817
+Bachelors,2017,New Delhi,2,25,Male,No,3,0,98056.84082
+Bachelors,2012,Bangalore,1,28,Female,No,3,0,97691.39345
+PHD,2015,New Delhi,3,26,Male,No,4,0,107714.3924
+Bachelors,2015,New Delhi,3,25,Female,No,3,0,94261.70845
+Bachelors,2012,Bangalore,3,26,Male,No,4,1,35036.25127
+Bachelors,2014,Bangalore,3,28,Female,No,3,0,44919.4276
+Masters,2014,Pune,3,24,Male,No,2,0,71862.69121
+Bachelors,2013,Bangalore,3,28,Male,No,1,0,105666.6677
+Bachelors,2015,Pune,3,27,Male,No,5,0,115313.3687
+Bachelors,2018,Bangalore,3,25,Male,No,3,1,107486.1044
+Masters,2013,Pune,1,24,Male,No,2,1,40178.70402
+Bachelors,2017,Bangalore,3,26,Female,No,4,0,59337.46442
+Bachelors,2013,Bangalore,3,28,Male,No,1,1,102402.6685
+Masters,2016,New Delhi,3,27,Male,No,5,0,88155.85017
+Masters,2017,Bangalore,3,26,Male,No,4,0,67766.5155
+Masters,2017,New Delhi,2,24,Male,No,2,0,55661.38135
+Masters,2018,New Delhi,3,26,Male,No,4,1,98808.48894
+Masters,2017,New Delhi,1,25,Female,No,3,1,106078.515
+Bachelors,2012,Pune,3,28,Male,No,2,0,81269.10237
+Bachelors,2017,New Delhi,3,28,Male,No,2,0,73205.71881
+Bachelors,2013,Bangalore,3,26,Male,No,4,0,50824.99446
+Masters,2013,New Delhi,3,27,Male,No,5,1,92284.38929
+Bachelors,2017,Pune,2,24,Female,No,2,1,84993.22827
+Bachelors,2017,New Delhi,3,28,Female,No,2,0,73179.29001
+Bachelors,2016,Bangalore,3,26,Male,No,4,0,73507.54527
+Bachelors,2013,Bangalore,3,27,Female,No,5,0,56761.88655
+Masters,2015,Pune,2,28,Female,No,3,0,53287.45567
+Bachelors,2014,Bangalore,3,25,Male,No,3,0,48557.12186
+Bachelors,2016,Pune,3,28,Male,No,1,0,43609.05857
+Masters,2013,Bangalore,1,25,Male,No,3,1,33364.00235
+Bachelors,2015,Pune,3,26,Male,No,4,0,110539.9634
+Bachelors,2018,New Delhi,3,27,Female,No,5,1,114056.6021
+Bachelors,2016,Bangalore,3,24,Male,No,2,1,35294.79357
+Bachelors,2012,Pune,2,24,Female,No,2,1,77192.66151
+Bachelors,2014,Bangalore,3,26,Male,No,4,0,48727.19151
+Bachelors,2016,Pune,2,24,Female,No,2,1,30196.34392
+Masters,2012,New Delhi,3,26,Female,No,4,0,115163.6992
+Bachelors,2013,Bangalore,3,28,Female,No,3,0,59879.5311
+Bachelors,2012,Bangalore,3,24,Male,No,2,1,32434.1949
+Bachelors,2015,Bangalore,3,25,Male,No,3,1,38952.21857
+Bachelors,2016,Bangalore,3,28,Male,No,3,0,91465.39404
+Bachelors,2014,Bangalore,3,28,Female,No,3,0,70092.8549
+Bachelors,2013,Bangalore,3,26,Female,No,4,0,47144.76048
+Masters,2017,New Delhi,3,24,Female,No,2,1,105747.6146
+Bachelors,2016,Bangalore,3,25,Male,No,3,1,111366.0746
+Bachelors,2015,Bangalore,3,25,Male,No,3,0,91429.42306
+Bachelors,2014,Bangalore,3,27,Male,No,5,0,86623.46458
+Bachelors,2012,Bangalore,3,24,Male,No,2,0,47729.71666
+Bachelors,2014,Bangalore,3,25,Male,No,3,0,64659.956
+Bachelors,2015,Bangalore,3,28,Male,No,3,0,117266.4828
+Masters,2015,New Delhi,3,26,Male,No,4,1,48123.83445
+Bachelors,2014,New Delhi,3,28,Female,No,1,0,102537.6934
+Bachelors,2015,Pune,3,25,Male,No,3,0,35321.27227
+Masters,2015,Pune,2,28,Female,No,2,0,73023.01118
+Bachelors,2014,Bangalore,3,27,Female,No,5,0,59922.61721
+Bachelors,2013,Bangalore,3,26,Male,No,4,0,110153.4214
+Bachelors,2016,Bangalore,3,26,Male,No,4,0,72961.3123
+Bachelors,2012,Bangalore,3,25,Male,No,3,0,53349.38005
+Bachelors,2015,Bangalore,3,25,Male,No,3,0,104511.96
+Bachelors,2014,New Delhi,3,24,Female,No,2,0,43789.93581
+Bachelors,2012,Bangalore,3,27,Male,No,5,1,35345.872
+Masters,2017,New Delhi,3,27,Male,No,5,1,59522.70214
+Bachelors,2015,Pune,3,27,Male,No,5,0,115048.2512
+Bachelors,2018,Bangalore,3,24,Male,No,2,1,114018.7903
+Masters,2017,New Delhi,3,27,Male,No,5,1,95135.3313
+Masters,2017,New Delhi,2,28,Female,No,1,1,44819.26133
+Masters,2017,Pune,2,24,Male,No,2,1,57599.38694
+Masters,2016,New Delhi,3,25,Female,No,3,1,108347.8547
+PHD,2015,New Delhi,3,28,Female,No,1,0,96320.20718
+Bachelors,2017,New Delhi,2,26,Male,No,4,0,73247.13574
+Bachelors,2013,Bangalore,2,27,Male,No,5,0,83534.87093
+Bachelors,2015,Bangalore,3,26,Male,No,4,0,71707.02663
+Bachelors,2015,Bangalore,3,26,Male,No,4,0,115397.915
+Bachelors,2013,Bangalore,3,28,Male,No,1,0,77074.23076
+Bachelors,2015,Bangalore,3,27,Female,No,5,0,51378.01627
+Bachelors,2013,New Delhi,3,25,Female,No,3,0,45399.17948
+Bachelors,2013,Pune,3,28,Male,No,1,0,100499.6891
+Bachelors,2017,Pune,3,24,Male,No,2,0,37602.2631
+Bachelors,2013,New Delhi,3,27,Female,No,5,0,35726.2672
+Bachelors,2018,Pune,3,34,Female,No,4,1,31715.0683
